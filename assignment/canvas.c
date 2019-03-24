@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "common.h"
 #include "canvas.h"
-
+#define INITIAL_VALUE 0
 
 static char bigBuffer[BUFFSIZE];
 static void (*handler)(char *msg); 

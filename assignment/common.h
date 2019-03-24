@@ -1,7 +1,6 @@
 #ifndef COMMON_H
 #define COMMON_H
 
-#define INITIAL_VALUE 0
 #define SUCCESS_VALUE 0
 #define BUFFSIZE 1000
 #define TERMINATOR -1

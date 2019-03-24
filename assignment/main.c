@@ -5,6 +5,9 @@
 #include "plotter.h"
 #include <math.h>
 
+//Rafal Rosa R00169344
+
+
 void testGetCanvas();
 void testPaintCanvas();
 void testFreeCanvas();
